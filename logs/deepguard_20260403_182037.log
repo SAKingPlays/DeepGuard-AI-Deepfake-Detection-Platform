@@ -1,0 +1,4 @@
+[18:20:37] INFO     deepguard: Starting DeepGuard AI v2.0.0
+[18:20:39] INFO     deepguard: Main window initialized
+[18:21:08] DEBUG    deepguard: ImageDetector created (device=cpu)
+[18:21:09] ERROR    deepguard: Failed to load image model: No module named 'torch'

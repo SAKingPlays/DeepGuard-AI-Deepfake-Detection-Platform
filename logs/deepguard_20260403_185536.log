@@ -1,0 +1,7 @@
+[18:55:36] INFO     deepguard: Starting DeepGuard AI v2.0.0
+[18:55:38] DEBUG    deepguard: GeminiDetector created (device=cpu)
+[18:55:38] INFO     deepguard: ✓ Gemini provider registered
+[18:55:38] DEBUG    deepguard: LocalDetector created (device=cpu)
+[18:55:38] INFO     deepguard: ✓ Local CV provider registered (offline fallback)
+[18:55:38] INFO     deepguard: Factory initialized with 2 provider(s)
+[18:55:38] INFO     deepguard: Available providers: ['gemini', 'local']

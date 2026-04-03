@@ -1,0 +1,9 @@
+[18:08:30] INFO     deepguard: Starting DeepGuard AI v2.0.0
+[18:08:32] INFO     deepguard: Main window initialized
+[18:09:15] DEBUG    deepguard: ImageDetector created (device=cpu)
+[18:09:15] ERROR    deepguard: Failed to load image model: No module named 'torch'
+[18:09:15] ERROR    deepguard: DetectionWorker error: ImageDetector.detect() got an unexpected keyword argument 'progress_cb'
+Traceback (most recent call last):
+  File "C:\Users\TheHighTable\Desktop\New folder\src\detection\workers.py", line 29, in run
+    result = self._detector.detect(
+TypeError: ImageDetector.detect() got an unexpected keyword argument 'progress_cb'
