@@ -2,10 +2,7 @@
 
 A professional-grade deepfake detection platform with multi-provider AI fallback, modern UI, and offline capabilities.
 
-<img width="583" height="342" alt="image" src="https://github.com/user-attachments/assets/f5f78c71-77f0-4c02-86b6-1408d043211b" />
-
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/c725ca9b-a1eb-4f1c-8c43-45b66d1f0351" />
-
+![DeepGuard AI Pro](assets/screenshot.png)
 
 ## 🌟 Features
 
